@@ -1,0 +1,6 @@
+/Users/ievgiienko/chat-server-sprint/src/main/java/academy/prog/chatserversprint/model/Message.java
+/Users/ievgiienko/chat-server-sprint/src/main/java/academy/prog/chatserversprint/repo/MessageRepository.java
+/Users/ievgiienko/chat-server-sprint/src/main/java/academy/prog/chatserversprint/controler/MessageController.java
+/Users/ievgiienko/chat-server-sprint/src/main/java/academy/prog/chatserversprint/model/MessageDTO.java
+/Users/ievgiienko/chat-server-sprint/src/main/java/academy/prog/chatserversprint/ChatServerSprintApplication.java
+/Users/ievgiienko/chat-server-sprint/src/main/java/academy/prog/chatserversprint/service/MessageService.java
