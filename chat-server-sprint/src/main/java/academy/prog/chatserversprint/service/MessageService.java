@@ -57,13 +57,4 @@ public class MessageService {
 
         return result;
     }
-
-    @Transactional
-    public FileDTO makeFileDataByteArray(long id){
-        var message = messageRepository.findFile(id);
-        var result = new FileDTO();
-        result.setFileDataByte(message.getFileData().getBytes());
-
-        return result;
-    }
 }
